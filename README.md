@@ -28,4 +28,4 @@ The dashboard contains interactive visualisations summarizing the medals awarded
 
 ![Hungary_dashboard](https://github.com/user-attachments/assets/93053a9f-fdfe-41fd-99f2-92deba2c6174)
 
-[Tableau public reference](https://talapkapetra.github.io/ Olympics-project /Olympic_Project.html)
+[Tableau public reference](https://talapkapetra.github.io/Olympics-project/Olympic_Project.html)
