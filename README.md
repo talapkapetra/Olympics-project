@@ -6,6 +6,8 @@ I used [summer.csv]( https://talapkapetra.github.io/Olympics-project/summer.csv)
 
 This file contains Olympic sports, Athletes and medals awarded at summer Olympic games between 1986 and 2014.
 
+Another dataset, [Metadata_Country.csv](https://talapkapetra.github.io/Olympics-project/Metadata_Country.csv) was used to import information of World Regions. It is available in public on Kaggle.com as well.
+
 ## Objectives
 
 My aim was to compare the performances of Countries in summer Olympic Games. I investigated acvhievements worldwide and in Hungary.
