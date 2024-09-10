@@ -20,7 +20,7 @@ Tableau, Tableau Public: data visualisation
 
 I created an interactive visualisation of the data in Tableau with two dashboards: Word, Hungary
 
-The dashboard contains interactive visualisations summarizing the medals awarded grouped by athletes, countries, regions, gender, disciplines.
+The dashboard contains visualisations summarizing the medals awarded grouped by athletes, countries, regions, gender, disciplines.
 
 ### Dashboard Snapshot I:  Word
 
